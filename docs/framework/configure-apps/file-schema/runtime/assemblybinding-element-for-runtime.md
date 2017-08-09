@@ -29,14 +29,14 @@ manager: "wpickett"
 # &lt;assemblyBinding&gt; Element for &lt;runtime&gt;
 Contains information about assembly version redirection and the locations of assemblies.  
   
- \<configuration>  
+\<configuration>  
 \<runtime>  
 \<assemblyBinding>  
   
 ## Syntax  
   
 ```xml  
-      <assemblyBinding    
+<assemblyBinding    
    xmlns="urn:schemas-microsoft-com:asm.v1" appliesTo="v1.0.3705">  
 </assemblyBinding>  
 ```  
